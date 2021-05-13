@@ -1,0 +1,16 @@
+/workspace/dotnetcore/bin/Debug/netcoreapp5.0/dotnetcore
+/workspace/dotnetcore/bin/Debug/netcoreapp5.0/dotnetcore.deps.json
+/workspace/dotnetcore/bin/Debug/netcoreapp5.0/dotnetcore.runtimeconfig.json
+/workspace/dotnetcore/bin/Debug/netcoreapp5.0/dotnetcore.runtimeconfig.dev.json
+/workspace/dotnetcore/bin/Debug/netcoreapp5.0/dotnetcore.dll
+/workspace/dotnetcore/bin/Debug/netcoreapp5.0/ref/dotnetcore.dll
+/workspace/dotnetcore/bin/Debug/netcoreapp5.0/dotnetcore.pdb
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/dotnetcore.csprojAssemblyReference.cache
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/dotnetcore.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/dotnetcore.AssemblyInfoInputs.cache
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/dotnetcore.AssemblyInfo.cs
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/dotnetcore.csproj.CoreCompileInputs.cache
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/dotnetcore.dll
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/ref/dotnetcore.dll
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/dotnetcore.pdb
+/workspace/dotnetcore/obj/Debug/netcoreapp5.0/dotnetcore.genruntimeconfig.cache
